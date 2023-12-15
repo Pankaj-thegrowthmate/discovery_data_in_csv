@@ -1,0 +1,40 @@
+name,format,type,total_number_of_outlet,city_present,state_present,purchase_model,credit_days,remark,action,logo_location,bg_location
+Apna Chemist,Pharmacy,Pharmacy,7,1,1,Outright,30,Not available,Same as wellness,/static/image/Apna Chemist/icon.jpg,/static/image/Apna Chemist/bg_image.jpg
+Apollo,Pharmacy,Pharmacy,5500,335,10,Outright,30,Done,,/static/image/Apollo/icon.jpg,/static/image/Apollo/bg_image.jpg
+Ayyu Pharmacy,B2B Wholesale,Pharmacy,1,PAN INDIA,PAN INDIA,Outright,45,Not available,Same as wellness,/static/image/Ayyu Pharmacy/icon.jpg,/static/image/Ayyu Pharmacy/bg_image.jpg
+Balaji Grand,Regional / Standalone MT,Grocery,15,1,1,Outright,30,Done,,/static/image/Balaji Grand/icon.jpg,/static/image/Balaji Grand/bg_image.jpg
+Bismi,Regional / Standalone MT,Grocery,18,12,1,Outright,30,Not available,Same as kathiyavaar,/static/image/Bismi/icon.jpg,/static/image/Bismi/bg_image.jpg
+Centro,National Beauty,Beauty,32,23,15,Outright,30,Not available,Same as shoppers stop,/static/image/Centro/icon.jpg,/static/image/Centro/bg_image.jpg
+D Mart Ready,B2B Wholesale,Grocery,327,117,15,Outright,7,Done,,/static/image/D Mart Ready/icon.jpg,/static/image/D Mart Ready/bg_image.jpg
+Dabur New U,National Beauty,Beauty,100,9,8,SOR( Sales or Return),45,Done,,/static/image/Dabur New U/icon.jpg,/static/image/Dabur New U/bg_image.jpg
+DJT,Regional / Standalone MT,Grocery,10,4,3,Outright,21,Not available,Same as kathiyavaar,/static/image/DJT/icon.jpg,/static/image/DJT/bg_image.jpg
+Fashion Factory,National Beauty,Beauty,107,53,22,Outright,30,Not available,Same as shoppers stop,/static/image/Fashion Factory/icon.jpg,/static/image/Fashion Factory/bg_image.jpg
+Gaurdians,Pharmacy,Pharmacy,65,16,9,Outright,30,Done,,/static/image/Gaurdians/icon.jpg,/static/image/Gaurdians/bg_image.jpg
+Health & Glow,National Beauty,Beauty,180,24,11,SOR( Sales or Return),45,Done,,/static/image/HealthandGlow/icon.jpg,/static/image/HealthandGlow/bg_image.jpg
+Kathiyavaar,Regional / Standalone MT,Beauty,5,2,1,Outright,30,Done,,/static/image/Kathiyavaar/icon.jpg,/static/image/Kathiyavaar/bg_image.jpg
+Kolkata Bazaar,Regional / Standalone MT,Beauty,143,23,7,Outright,30,Not available,Same as shoppers stop,/static/image/Kolkata Bazaar/icon.jpg,/static/image/Kolkata Bazaar/bg_image.jpg
+Le Marche,Regional / Standalone MT,Grocery,7,1,1,SOR( Sales or Return),45,Done,,/static/image/Le Marche/icon.jpg,/static/image/Le Marche/bg_image.jpg
+Lifestyle,National Beauty,Beauty,97,56,22,SOR( Sales or Return),45,Done,,/static/image/Lifestyle/icon.jpg,/static/image/Lifestyle/bg_image.jpg
+Lulu Hyper,National Super / Hyper,Grocery,6,6,5,Outright,30,Done,,/static/image/Lulu Hyper/icon.jpg,/static/image/Lulu Hyper/bg_image.jpg
+Max Bazaar,Regional / Standalone MT,Grocery,5,1,1,Outright,21,Done,,/static/image/Max Bazaar/icon.jpg,/static/image/Max Bazaar/bg_image.jpg
+Metro C&C,B2B Wholesale,Grocery,31,21,11,Outright,30,Not available,All categories,/static/image/Metro CandC/icon.jpg,/static/image/Metro CandC/bg_image.jpg
+Modern Bazaar,Regional / Standalone MT,Grocery,21,4,4,Outright,30,Done,,/static/image/Modern Bazaar/icon.jpg,/static/image/Modern Bazaar/bg_image.jpg
+More,National Super / Hyper,Grocery,913,150,15,SOR( Sales or Return),30,Not available,All categories,/static/image/More/icon.jpg,/static/image/More/bg_image.jpg
+Nykaa B2B,B2B Wholesale,Beauty,1,PAN INDIA,PAN INDIA,SOR( Sales or Return),45,Done,,/static/image/Nykaa B2B/icon.jpg,/static/image/Nykaa B2B/bg_image.jpg
+Pantaloons,National Beauty,Beauty,394,79,23,SOR( Sales or Return),30,Not available,Same as shoppers stop,/static/image/Pantaloons/icon.jpg,/static/image/Pantaloons/bg_image.jpg
+Planet health,Regional / Standalone MT,Beauty,38,6,2,SOR( Sales or Return),30,Done,,/static/image/Planet health/icon.jpg,/static/image/Planet health/bg_image.jpg
+Potthy's,Regional / Standalone MT,Grocery,14,10,4,Outright,30,Done,,/static/image/Potthy's/icon.jpg,/static/image/Potthy's/bg_image.jpg
+Rajmandir,Regional / Standalone MT,Grocery,28,1,1,Outright,30,Not available,Same as kathiyavaar,/static/image/Rajmandir/icon.jpg,/static/image/Rajmandir/bg_image.jpg
+Ratandeep,National Super / Hyper,Grocery,130,4,3,Outright,30,Done,,/static/image/Ratandeep/icon.jpg,/static/image/Ratandeep/bg_image.jpg
+Reliance Smart,National Super / Hyper,Grocery,3930,1279,29,Outright,30,Not available,All categories,/static/image/Reliance Smart/icon.jpg,/static/image/Reliance Smart/bg_image.jpg
+Shoppers Stop,National Beauty,Beauty,166,67,23,SOR( Sales or Return),30,Done,,/static/image/Shoppers Stop/icon.jpg,/static/image/Shoppers Stop/bg_image.jpg
+Sodhi Super Strores,Regional / Standalone MT,Grocery,8,2,2,Outright,30,Done,,/static/image/Sodhi Super Strores/icon.jpg,/static/image/Sodhi Super Strores/bg_image.jpg
+Spar,National Super / Hyper,Grocery,24,9,6,SOR( Sales or Return),30,Done,,/static/image/Spar/icon.jpg,/static/image/Spar/bg_image.jpg
+Spencers,National Super / Hyper,Grocery,35,22,10,SOR( Sales or Return),30,Done,,/static/image/Spencers/icon.jpg,/static/image/Spencers/bg_image.jpg
+TATA 1MG,Pharmacy,Pharmacy,56,9,7,SOR( Sales or Return),30,Done,,/static/image/TATA 1MG/icon.jpg,/static/image/TATA 1MG/bg_image.jpg
+Ushodiya,Regional / Standalone MT,Grocery,10,2,1,Outright,30,Not available,Same as kathiyavaar,/static/image/Ushodiya/icon.jpg,/static/image/Ushodiya/bg_image.jpg
+Vaibhav stores,Regional / Standalone MT,Beauty,3,1,1,Outright,30,Not available,Same as kathiyavaar,/static/image/Vaibhav stores/icon.jpg,/static/image/Vaibhav stores/bg_image.jpg
+Vijayetha,National Super / Hyper,Grocery,100,3,2,Outright,30,Done,,/static/image/Vijayetha/icon.jpg,/static/image/Vijayetha/bg_image.jpg
+Walmart,B2B Wholesale,Grocery,28,24,9,Outright,45,Not available,Except makeup,/static/image/Walmart/icon.jpg,/static/image/Walmart/bg_image.jpg
+Wellness Forever,Pharmacy,Pharmacy,291,27,3,Outright,30,Done,,/static/image/Wellness Forever/icon.jpg,/static/image/Wellness Forever/bg_image.jpg
+WH Smith,National Super / Hyper,Grocery,34,10,8,Outright,30,Not available,Except makeup,/static/image/WH Smith/icon.jpg,/static/image/WH Smith/bg_image.jpg

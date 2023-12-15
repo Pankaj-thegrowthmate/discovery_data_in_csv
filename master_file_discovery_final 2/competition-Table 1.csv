@@ -1,0 +1,874 @@
+Retailer,Category,Sub Category,Match,format,E1,E2,E3,E4,E5,L1,L2,L3
+Apna Chemist,Makeup,Face,100,Pharmacy,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Apna Chemist,Makeup,Eyes,40,Pharmacy,Lakme,Plum,,,,,,
+Apna Chemist,Makeup,Lips,60,Pharmacy,Sebamed,Plum,Mamaearth,Nivea,,,,
+Apna Chemist,Makeup,Nail,20,Pharmacy,Plum,VLCC,,,,GUBB,,
+Apna Chemist,Skin,Moisturizers,100,Pharmacy,Mamaearth,Himalaya,Lakme,Nivea,Olay,Mcaffeine,Palmolive,Dr. Batra
+Apna Chemist,Skin,Cleansers,100,Pharmacy,Lakme,Everyuth,Mamaearth,VLCC,Ponds,Beardo,Neutrogena,Mcaffeine
+Apna Chemist,Skin,Masks,60,Pharmacy,Plum,Garnier,Mamaearth,VLCC,Himalaya,Bombay Shaving Company,Akmasq,Mcaffeine
+Apna Chemist,Skin,Toners,40,Pharmacy,Biotique,Dabur,Mamaearth,VLCC,,Khadi,Nutriorg,
+Apna Chemist,Skin,Body Care,100,Pharmacy,Dove,Nivea,Lakme,Ponds,Mamaearth,Sebamed,Cetaphil,Lotus
+Apna Chemist,Skin,Eye Care,40,Pharmacy,Mamaearth,Himalaya,VLCC,Mcaffeine,,The Moms Co.,Eyebliss,Avarta
+Apna Chemist,Skin,Lip Care,60,Pharmacy,Vaseline,Nivea,Dove,VLCC,Plum,Beardo,Chaptex,Sebamed
+Apna Chemist,Skin,Sun Care,100,Pharmacy,Nivea,Lotus,VLCC,VLCC,,Sunstil,Neutrogena,
+Apna Chemist,Hair,Hair Care,100,Pharmacy,Tresemme,Loreal Paris Paris,Mamaearth,Himalaya,Dove,Khadi,Indulekha,The Moms Co.
+Apna Chemist,Bath & Body,Bath & Shower,100,Pharmacy,Nivea,Palmolive,Fiama,Plum,Dettol,GUBB,Biotique,Khadi
+Apna Chemist,Bath & Body,Body Care,100,Pharmacy,Nivea,Dove,Fogg,Wild Stone,Garnier,Engage,,
+Apna Chemist,Bath & Body,Shaving & Hair Removal,100,Pharmacy,Veet,Fem,Ayur,Mamaearth,,The Man Company,Bombay Shaving Company,Nair
+Apna Chemist,Bath & Body,Men's Grooming,100,Pharmacy,Park Avenue,Nivea,Supermax,Old Spice,Cinthol,The Man Company,Bombay Shaving Company,
+Apna Chemist,Bath & Body,Hands & Feet,100,Pharmacy,Himalaya,Cetaphil,Neutrogena,Lifebuoy,Dettol,GUBB,,
+Apna Chemist,Bath & Body,Hygiene Essentials,100,Pharmacy,Savlon,Dettol,Himalaya,Livinguard,,Pigeon,Chicco,Saniscrub
+Apna Chemist,Bath & Body,Oral Care,100,Pharmacy,Colgate,Sensodyne,Himalaya,Dabur,Pepsodent,Vicco,Perfora,Lever Ayush
+Apna Chemist,Mom & Baby,Baby Care,100,Pharmacy,Johnson's,Himalaya,Dabur,Cerlac,Pampers,The Moms Co.,Hamdard,Mamypoko
+Apna Chemist,Mom & Baby,Maternity Care,100,Pharmacy,Palmers,Pigeon,,,,The Moms Co.,Mustela,
+Apna Chemist,Mom & Baby,Kids Care,100,Pharmacy,Lotus,Mamaearth,Horlicks,Nestle,Complan,Chicco,Sebamed,
+Apna Chemist,Mom & Baby,Nursing & Feeding,100,Pharmacy,Pigeon,Chicco,Morisons,,,,,
+Apna Chemist,Health & Wellness,Health Supplements,100,Pharmacy,GNC,Himalaya,Health Aid,Cureveda,Biohealth,Enorma,HK vitals,
+Apna Chemist,Health & Wellness,Beauty Supplements,100,Pharmacy,Oziva,GNC,Health Aid,Plix,,Fixuphealth,HK vitals,
+Apna Chemist,Health & Wellness,Sports Nutrition,100,Pharmacy,Oziva,GNC,Muscleblaze,Optimum Nutrition,Green Protein,Endura Mass,Ritebite,Phab
+Apna Chemist,Health & Wellness,Weight Management,100,Pharmacy,Endura Mass,Optimum Nutrition,Muscleblaze,GNC,Lipton,Kellogg's,Himalaya,Sugar Free
+Apna Chemist,Health & Wellness,Health Foods,80,Pharmacy,Dabur,True Elements,Delight Nuts,Cocosutra,Amul,Horlicks,Pedia Sure,Complan
+Apollo,Makeup,Face,100,Pharmacy,Lakme,Vlcc,Lotus,Loreal Paris Paris,Maybelline,Fair & Lovely,Neutrogena,Organic Harvest
+Apollo,Makeup,Eyes,40,Pharmacy,Lakme,Colorbar,Himalaya,Loreal Paris Paris,Maybelline,Faces Canada,Color FX,Nykaa
+Apollo,Makeup,Nail,20,Pharmacy,Lakme,Colorbar,,,,Dr. Organic,Half N Half,
+Apollo,Skin,Moisturizers,100,Pharmacy,Lakme,Ponds,Vaseline,Garnier,Dove,Biotique,Mamaearth,Savlon
+Apollo,Skin,Cleansers,100,Pharmacy,Lakme,Garnier,Patanjali,Olay,Dove,Cetaphil,Neutrogena,Indulekha
+Apollo,Skin,Masks,60,Pharmacy,Nykaa,Garnier,Lakme,Ponds,Everyuth,The Man Company,VLCC,
+Apollo,Skin,Toners,40,Pharmacy,Nivea,Ponds,Patanjali,Dabur,Apollo Pharmacy,Dr. Organic,Banjaras,Kapiva
+Apollo,Skin,Body Care,100,Pharmacy,Parachute,Dettol,Nivea,Ponds,Lakme,Rexona,Medimix,Neko
+Apollo,Skin,Eye Care,40,Pharmacy,Mamaearth,Himalaya,Biotique,,,Eyebliss,Eyecojic,Cosmoq
+Apollo,Skin,Lip Care,60,Pharmacy,Nivea,Himalaya,Maybelline,Nykaa,Vaseline,Cetafresh,Good Vibes,Organic Harvest
+Apollo,Skin,Sun Care,100,Pharmacy,VLCC,Sebamed,Lotus,Vaseline,Apollo Pharmacy,Cetaphil,Neutrogena,
+Apollo,Hair,Hair Care,100,Pharmacy,Dove,Garnier,Tresemme,Patanjali,Sunsilk,Dr. Organic,Mamaearth,Chik
+Apollo,Bath & Body,Bath & Shower,100,Pharmacy,Nivea,Fiama,Pears,Cinthol,Dove,Mcaffeine,Dr. Organic,Everyuth
+Apollo,Bath & Body,Body Care,100,Pharmacy,Old Spice,Himalaya,VLCC,Cinthol,Mcaffeine,Figaro,Dr. Organic,Mamaearth
+Apollo,Bath & Body,Shaving & Hair Removal,100,Pharmacy,Gillette,Old Spice,Axe,Dettol,Veet,Vicco,Bombay Shaving Company,Vi-John
+Apollo,Bath & Body,Men's Grooming,100,Pharmacy,Gillette,Old Spice,Axe,Dettol,Veet,Vicco,Bombay Shaving Company,Vi-John
+Apollo,Bath & Body,Hands & Feet,100,Pharmacy,Apollo Pharmacy,Dettol,Lifebuoy,Himalaya,Savlon,Justhuman,Medimix,Hamam
+Apollo,Bath & Body,Hygiene Essentials,100,Pharmacy,Apollo Pharmacy,Dettol,Lifebuoy,,Savlon,Justhuman,,
+Apollo,Bath & Body,Oral Care,100,Pharmacy,Colgate,Dabur,Oral-B,Listerine,Sensodyne,Vicco,Pepsodent,Dabur
+Apollo,Mom & Baby,Baby Care,100,Pharmacy,Johnson's,Himalaya,Dove,Pampers,Mamypoko,Chicco,Mamaearth,Sebamed
+Apollo,Mom & Baby,Maternity Care,100,Pharmacy,Himalaya,Sebamed,Mederma,,,Pregna,Fixderma,Palmerss
+Apollo,Mom & Baby,Kids Care,100,Pharmacy,Lotus,Mamaearth,Horlicks,Nestle,Complan,Chicco,Sebamed,
+Apollo,Mom & Baby,Nursing & Feeding,100,Pharmacy,Pigeon,Apollo Pharmacy,,,,Chicco,Morisons,
+Apollo,Health & Wellness,Health Supplements,100,Pharmacy,Apollo Pharmacy,HealthKart,Revital,Himalaya,GNC,Fitspire,Calcimax,Zincovit
+Apollo,Health & Wellness,Beauty Supplements,100,Pharmacy,Himalaya,Hamdard,Apollo Pharmacy,Evion,,Vogue,,
+Apollo,Health & Wellness,Sports Nutrition,100,Pharmacy,Optimum Nutrition,Horlicks,Apollo Pharmacy,Endura Mass,Ensure,GNC,Calibar,GRD
+Apollo,Health & Wellness,Weight Management,100,Pharmacy,Patanjali,Sugar Free,Apollo Pharmacy,Himalaya,Endura Mass,GRD,Musletech,Horlicks
+Apollo,Health & Wellness,Health Foods,80,Pharmacy,Horlicks,Ensure,Apollo Pharmacy,Pedia Sure,ProteinX,GRD,Musletech,Ritebite
+Ayyu Pharmacy,Makeup,Face,40,Pharmacy,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Ayyu Pharmacy,Makeup,Eyes,60,Pharmacy,Lakme,Plum,,,,,,
+Ayyu Pharmacy,Makeup,Lips,20,Pharmacy,Sebamed,Plum,Mamaearth,Nivea,,,,
+Ayyu Pharmacy,Makeup,Nail,100,Pharmacy,Plum,VLCC,,,,GUBB,,
+Ayyu Pharmacy,Skin,Moisturizers,100,Pharmacy,Mamaearth,Himalaya,Lakme,Nivea,Olay,Mcaffeine,Palmolive,Dr. Batra
+Ayyu Pharmacy,Skin,Cleansers,60,Pharmacy,Lakme,Everyuth,Mamaearth,VLCC,Ponds,Beardo,Neutrogena,Mcaffeine
+Ayyu Pharmacy,Skin,Masks,40,Pharmacy,Plum,Garnier,Mamaearth,VLCC,Himalaya,Bombay Shaving Company,Akmasq,Mcaffeine
+Ayyu Pharmacy,Skin,Toners,100,Pharmacy,Biotique,Dabur,Mamaearth,VLCC,,Khadi,Nutriorg,
+Ayyu Pharmacy,Skin,Body Care,40,Pharmacy,Dove,Nivea,Lakme,Ponds,Mamaearth,Sebamed,Cetaphil,Lotus
+Ayyu Pharmacy,Skin,Eye Care,60,Pharmacy,Mamaearth,Himalaya,VLCC,Mcaffeine,,The Moms Co.,Eyebliss,Avarta
+Ayyu Pharmacy,Skin,Lip Care,100,Pharmacy,Vaseline,Nivea,Dove,VLCC,Plum,Beardo,Chaptex,Sebamed
+Ayyu Pharmacy,Skin,Sun Care,100,Pharmacy,Nivea,Lotus,VLCC,VLCC,,Sunstil,Neutrogena,
+Ayyu Pharmacy,Hair,Hair Care,100,Pharmacy,Tresemme,Loreal Paris Paris,Mamaearth,Himalaya,Dove,Khadi,Indulekha,The Moms Co.
+Ayyu Pharmacy,Bath & Body,Bath & Shower,100,Pharmacy,Nivea,Palmolive,Fiama,Plum,Dettol,GUBB,Biotique,Khadi
+Ayyu Pharmacy,Bath & Body,Body Care,100,Pharmacy,Nivea,Dove,Fogg,Wild Stone,Garnier,Engage,,
+Ayyu Pharmacy,Bath & Body,Shaving & Hair Removal,100,Pharmacy,Veet,Fem,Ayur,Mamaearth,,The Man Company,Bombay Shaving Company,Nair
+Ayyu Pharmacy,Bath & Body,Men's Grooming,100,Pharmacy,Park Avenue,Nivea,Supermax,Old Spice,Cinthol,The Man Company,Bombay Shaving Company,
+Ayyu Pharmacy,Bath & Body,Hands & Feet,100,Pharmacy,Himalaya,Cetaphil,Neutrogena,Lifebuoy,Dettol,GUBB,,
+Ayyu Pharmacy,Bath & Body,Hygiene Essentials,100,Pharmacy,Savlon,Dettol,Himalaya,Livinguard,,Pigeon,Chicco,Saniscrub
+Ayyu Pharmacy,Bath & Body,Oral Care,100,Pharmacy,Colgate,Sensodyne,Himalaya,Dabur,Pepsodent,Vicco,Perfora,Lever Ayush
+Ayyu Pharmacy,Mom & Baby,Baby Care,100,Pharmacy,Johnson's,Himalaya,Dabur,Cerlac,Pampers,The Moms Co.,Hamdard,Mamypoko
+Ayyu Pharmacy,Mom & Baby,Maternity Care,100,Pharmacy,Palmers,Pigeon,,,,The Moms Co.,Mustela,
+Ayyu Pharmacy,Mom & Baby,Kids Care,100,Pharmacy,Lotus,Mamaearth,Horlicks,Nestle,Complan,Chicco,Sebamed,
+Ayyu Pharmacy,Mom & Baby,Nursing & Feeding,100,Pharmacy,Pigeon,Chicco,Morisons,,,,,
+Ayyu Pharmacy,Health & Wellness,Health Supplements,100,Pharmacy,GNC,Himalaya,Health Aid,Cureveda,Biohealth,Enorma,HK vitals,
+Ayyu Pharmacy,Health & Wellness,Beauty Supplements,100,Pharmacy,Oziva,GNC,Health Aid,Plix,,Fixuphealth,HK vitals,
+Ayyu Pharmacy,Health & Wellness,Sports Nutrition,100,Pharmacy,Oziva,GNC,Muscleblaze,Optimum Nutrition,Green Protein,Endura Mass,Ritebite,Phab
+Ayyu Pharmacy,Health & Wellness,Weight Management,100,Pharmacy,Endura Mass,Optimum Nutrition,Muscleblaze,GNC,Lipton,Kellogg's,Himalaya,Sugar Free
+Ayyu Pharmacy,Health & Wellness,Health Foods,80,Pharmacy,Dabur,True Elements,Delight Nuts,Cocosutra,Amul,Horlicks,Pedia Sure,Complan
+Balaji Grand,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Balaji Grand,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Balaji Grand,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Balaji Grand,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Balaji Grand,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Balaji Grand,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Balaji Grand,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Balaji Grand,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Balaji Grand,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Balaji Grand,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Balaji Grand,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Balaji Grand,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Balaji Grand,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Balaji Grand,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Balaji Grand,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Balaji Grand,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Balaji Grand,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Balaji Grand,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Balaji Grand,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Balaji Grand,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Balaji Grand,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Balaji Grand,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Balaji Grand,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Balaji Grand,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Bismi,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Bismi,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Bismi,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Bismi,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Bismi,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Bismi,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Bismi,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Bismi,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Bismi,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Bismi,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Bismi,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Bismi,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Bismi,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Bismi,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Bismi,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Bismi,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Bismi,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Bismi,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Bismi,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Bismi,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Bismi,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Bismi,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Bismi,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Bismi,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Centro,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Centro,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Centro,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Centro,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Centro,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Centro,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Centro,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Centro,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+D Mart Ready,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+D Mart Ready,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+D Mart Ready,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+D Mart Ready,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+D Mart Ready,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+D Mart Ready,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+D Mart Ready,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+D Mart Ready,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+D Mart Ready,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+D Mart Ready,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+D Mart Ready,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+D Mart Ready,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+D Mart Ready,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+D Mart Ready,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+D Mart Ready,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+D Mart Ready,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+D Mart Ready,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+D Mart Ready,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+D Mart Ready,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+D Mart Ready,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+D Mart Ready,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+D Mart Ready,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+D Mart Ready,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+D Mart Ready,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Gaurdians,Health & Wellness,Health Supplements,100,Pharmacy,GNC,Himalaya,Health Aid,Cureveda,Biohealth,Enorma,HK vitals,
+Gaurdians,Health & Wellness,Beauty Supplements,60,Pharmacy,Oziva,GNC,Health Aid,Plix,,Fixuphealth,HK vitals,
+Gaurdians,Health & Wellness,Sports Nutrition,100,Pharmacy,Oziva,GNC,Muscleblaze,Optimum Nutrition,Green Protein,Endura Mass,Ritebite,Phab
+Gaurdians,Health & Wellness,Weight Management,100,Pharmacy,Endura Mass,Optimum Nutrition,Muscleblaze,GNC,Lipton,Kellogg's,Himalaya,Sugar Free
+Dabur New U,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Dabur New U,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Dabur New U,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Dabur New U,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Dabur New U,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Dabur New U,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Dabur New U,Bath & Body,Shaving & Hair Removal,100,Beauty,Veet,The Body Care,Plush,Bombae,Biosoft,Honeybee,Sirona,Rica
+Dabur New U,Bath & Body,Men's Grooming,100,Beauty,Old Spice,Gillette,Nivea,Dove,Himalaya,Bombay Shaving Company,The Body Shop,
+Dabur New U,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Fashion Factory,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Fashion Factory,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Fashion Factory,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Fashion Factory,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Fashion Factory,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Fashion Factory,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Fashion Factory,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Fashion Factory,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+DJT,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+DJT,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+DJT,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+DJT,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+DJT,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+DJT,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+DJT,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+DJT,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+DJT,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+DJT,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+DJT,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+DJT,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+DJT,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+DJT,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+DJT,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+DJT,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+DJT,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+DJT,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+DJT,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+DJT,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+DJT,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+DJT,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+DJT,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+DJT,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Metro C&C,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Metro C&C,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Metro C&C,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Metro C&C,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Metro C&C,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Metro C&C,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Metro C&C,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Metro C&C,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Metro C&C,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Metro C&C,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Metro C&C,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Metro C&C,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Metro C&C,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Metro C&C,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Metro C&C,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Metro C&C,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Metro C&C,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Metro C&C,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Metro C&C,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Metro C&C,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Metro C&C,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Metro C&C,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Metro C&C,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Metro C&C,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Metro C&C,Health & Wellness,Health Supplements,40,Grocery,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,
+Metro C&C,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Metro C&C,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Metro C&C,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Metro C&C,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Lulu Hyper,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Lulu Hyper,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Lulu Hyper,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Lulu Hyper,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Lulu Hyper,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Lulu Hyper,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Lulu Hyper,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Lulu Hyper,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Lulu Hyper,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Lulu Hyper,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Lulu Hyper,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Lulu Hyper,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Lulu Hyper,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Lulu Hyper,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Lulu Hyper,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Lulu Hyper,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Lulu Hyper,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Lulu Hyper,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Lulu Hyper,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Lulu Hyper,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Lulu Hyper,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Lulu Hyper,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Lulu Hyper,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Lulu Hyper,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Lulu Hyper,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Lulu Hyper,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Health & Glow,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Health & Glow,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Health & Glow,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Health & Glow,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Health & Glow,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Health & Glow,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Health & Glow,Bath & Body,Shaving & Hair Removal,100,Beauty,Veet,The Body Care,Plush,Bombae,Biosoft,Honeybee,Sirona,Rica
+Health & Glow,Bath & Body,Men's Grooming,100,Beauty,Old Spice,Gillette,Nivea,Dove,Himalaya,Bombay Shaving Company,The Body Shop,
+Health & Glow,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Health & Glow,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Health & Glow,Bath & Body,Oral Care,100,Beauty,Colgate,Oral-B,Listerine,Dabur,Himalaya,Closeup,Mamaearth,Perfora
+Health & Glow,Mom & Baby,Baby Care,100,Beauty,Johnson's,Sebamed,Mamypoko,Dove,Himalaya,Mom & World,Mamaearth,The Moms Co.
+Health & Glow,Mom & Baby,Maternity Care,20,Beauty,Bio-oil,Mederma,Amrutam,Mom & World,Himalaya,Sirona,Mamaearth,The Moms Co.
+Health & Glow,Mom & Baby,Kids Care,20,Beauty,Colgate,Oral-B,Biotique,Wow,Himalaya,Mom & World,Mamaearth,Perfora
+Health & Glow,Mom & Baby,Nursing & Feeding,20,Beauty,Pigeon,Chicco,Mothercare,Bodyguard,Himalaya,Sirona,Morisons,Sanfe
+Health & Glow,Health & Wellness,Health Supplements,20,Beauty,HealthVit,Oziva,GNC,HealthHey,Himalaya,Mom & World,Traya,Wow
+Health & Glow,Health & Wellness,Beauty Supplements,80,Beauty,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Health & Glow,Health & Wellness,Sports Nutrition,20,Beauty,Muscleblaze,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Health & Glow,Health & Wellness,Weight Management,20,Beauty,Muscleblaze,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Health & Glow,Health & Wellness,Health Foods,20,Beauty,Nourish Vitals,Nutriorg,Baidyanath,Oziva,Himalaya,Endura,Endura,Happilo
+Lifestyle,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Lifestyle,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Lifestyle,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Lifestyle,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Lifestyle,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Lifestyle,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Lifestyle,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Max Bazaar,Health & Wellness,Health Supplements,40,Grocery,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,
+Max Bazaar,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Max Bazaar,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Max Bazaar,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Le Marche,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Le Marche,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Le Marche,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Le Marche,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Le Marche,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Le Marche,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Le Marche,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Le Marche,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Le Marche,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Le Marche,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Le Marche,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Le Marche,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Le Marche,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Le Marche,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Le Marche,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Le Marche,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Le Marche,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Le Marche,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Kathiyavaar,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Kathiyavaar,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Kathiyavaar,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Kathiyavaar,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Kathiyavaar,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Kathiyavaar,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kathiyavaar,Bath & Body,Shaving & Hair Removal,100,Beauty,Veet,The Body Care,Plush,Bombae,Biosoft,Honeybee,Sirona,Rica
+Kathiyavaar,Bath & Body,Men's Grooming,100,Beauty,Old Spice,Gillette,Nivea,Dove,Himalaya,Bombay Shaving Company,The Body Shop,
+Kathiyavaar,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Kathiyavaar,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Kathiyavaar,Bath & Body,Oral Care,100,Beauty,Colgate,Oral-B,Listerine,Dabur,Himalaya,Closeup,Mamaearth,Perfora
+Kathiyavaar,Mom & Baby,Baby Care,100,Beauty,Johnson's,Sebamed,Mamypoko,Dove,Himalaya,Mom & World,Mamaearth,The Moms Co.
+Kathiyavaar,Mom & Baby,Maternity Care,20,Beauty,Bio-oil,Mederma,Amrutam,Mom & World,Himalaya,Sirona,Mamaearth,The Moms Co.
+Kathiyavaar,Mom & Baby,Kids Care,20,Beauty,Colgate,Oral-B,Biotique,Wow,Himalaya,Mom & World,Mamaearth,Perfora
+Kathiyavaar,Mom & Baby,Nursing & Feeding,20,Beauty,Pigeon,Chicco,Mothercare,Bodyguard,Himalaya,Sirona,Morisons,Sanfe
+Kolkata Bazaar,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Kolkata Bazaar,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Kolkata Bazaar,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Kolkata Bazaar,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Kolkata Bazaar,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Kolkata Bazaar,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Kolkata Bazaar,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Kolkata Bazaar,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Nykaa B2B,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Nykaa B2B,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Nykaa B2B,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Nykaa B2B,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Nykaa B2B,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Nykaa B2B,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Nykaa B2B,Bath & Body,Shaving & Hair Removal,100,Beauty,Veet,The Body Care,Plush,Bombae,Biosoft,Honeybee,Sirona,Rica
+Nykaa B2B,Bath & Body,Men's Grooming,100,Beauty,Old Spice,Gillette,Nivea,Dove,Himalaya,Bombay Shaving Company,The Body Shop,
+Nykaa B2B,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Nykaa B2B,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Nykaa B2B,Bath & Body,Oral Care,100,Beauty,Colgate,Oral-B,Listerine,Dabur,Himalaya,Closeup,Mamaearth,Perfora
+Nykaa B2B,Mom & Baby,Baby Care,100,Beauty,Johnson's,Sebamed,Mamypoko,Dove,Himalaya,Mom & World,Mamaearth,The Moms Co.
+Nykaa B2B,Mom & Baby,Maternity Care,20,Beauty,Bio-oil,Mederma,Amrutam,Mom & World,Himalaya,Sirona,Mamaearth,The Moms Co.
+Nykaa B2B,Mom & Baby,Kids Care,20,Beauty,Colgate,Oral-B,Biotique,Wow,Himalaya,Mom & World,Mamaearth,Perfora
+Nykaa B2B,Mom & Baby,Nursing & Feeding,20,Beauty,Pigeon,Chicco,Mothercare,Bodyguard,Himalaya,Sirona,Morisons,Sanfe
+Nykaa B2B,Health & Wellness,Health Supplements,20,Beauty,HealthVit,Oziva,GNC,HealthHey,Himalaya,Mom & World,Traya,Wow
+Nykaa B2B,Health & Wellness,Beauty Supplements,80,Beauty,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Nykaa B2B,Health & Wellness,Sports Nutrition,20,Beauty,Muscleblaze,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Nykaa B2B,Health & Wellness,Weight Management,20,Beauty,Muscleblaze,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Nykaa B2B,Health & Wellness,Health Foods,20,Beauty,Nourish Vitals,Nutriorg,Baidyanath,Oziva,Himalaya,Endura,Endura,Happilo
+More,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+More,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+More,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+More,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+More,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+More,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+More,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+More,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+More,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+More,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+More,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+More,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+More,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+More,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+More,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+More,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+More,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+More,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+More,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+More,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+More,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+More,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+More,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+More,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+More,Health & Wellness,Health Supplements,40,Grocery,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,
+More,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+More,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+More,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+More,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Ratandeep,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Ratandeep,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Ratandeep,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Ratandeep,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Ratandeep,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Ratandeep,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Ratandeep,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Ratandeep,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Ratandeep,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Ratandeep,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Ratandeep,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Ratandeep,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Ratandeep,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Pantaloons,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Pantaloons,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Pantaloons,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Pantaloons,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Pantaloons,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Pantaloons,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Pantaloons,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Pantaloons,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Modern Bazaar,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Modern Bazaar,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Modern Bazaar,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Modern Bazaar,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Modern Bazaar,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Modern Bazaar,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Modern Bazaar,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Modern Bazaar,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Modern Bazaar,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Modern Bazaar,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Modern Bazaar,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Modern Bazaar,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Modern Bazaar,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Modern Bazaar,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Modern Bazaar,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Modern Bazaar,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Modern Bazaar,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Modern Bazaar,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Modern Bazaar,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Modern Bazaar,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Modern Bazaar,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Modern Bazaar,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Modern Bazaar,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Modern Bazaar,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Modern Bazaar,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Rajmandir,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Rajmandir,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Rajmandir,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Rajmandir,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Rajmandir,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Rajmandir,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Rajmandir,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Rajmandir,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Rajmandir,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Rajmandir,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Rajmandir,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Rajmandir,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Rajmandir,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Rajmandir,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Rajmandir,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Rajmandir,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Rajmandir,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Rajmandir,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Rajmandir,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Rajmandir,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Rajmandir,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Rajmandir,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Rajmandir,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Rajmandir,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Planet health,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Planet health,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Planet health,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Planet health,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Planet health,Bath & Body,Shaving & Hair Removal,100,Beauty,Veet,The Body Care,Plush,Bombae,Biosoft,Honeybee,Sirona,Rica
+Planet health,Bath & Body,Men's Grooming,100,Beauty,Old Spice,Gillette,Nivea,Dove,Himalaya,Bombay Shaving Company,The Body Shop,
+Planet health,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Planet health,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Planet health,Bath & Body,Oral Care,100,Beauty,Colgate,Oral-B,Listerine,Dabur,Himalaya,Closeup,Mamaearth,Perfora
+Planet health,Mom & Baby,Baby Care,100,Beauty,Johnson's,Sebamed,Mamypoko,Dove,Himalaya,Mom & World,Mamaearth,The Moms Co.
+Planet health,Mom & Baby,Maternity Care,20,Beauty,Bio-oil,Mederma,Amrutam,Mom & World,Himalaya,Sirona,Mamaearth,The Moms Co.
+Planet health,Mom & Baby,Kids Care,20,Beauty,Colgate,Oral-B,Biotique,Wow,Himalaya,Mom & World,Mamaearth,Perfora
+Planet health,Mom & Baby,Nursing & Feeding,20,Beauty,Pigeon,Chicco,Mothercare,Bodyguard,Himalaya,Sirona,Morisons,Sanfe
+Planet health,Health & Wellness,Health Supplements,20,Beauty,HealthVit,Oziva,GNC,HealthHey,Himalaya,Mom & World,Traya,Wow
+Planet health,Health & Wellness,Beauty Supplements,80,Beauty,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Planet health,Health & Wellness,Sports Nutrition,20,Beauty,Muscleblaze,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Planet health,Health & Wellness,Weight Management,20,Beauty,Muscleblaze,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Planet health,Health & Wellness,Health Foods,20,Beauty,Nourish Vitals,Nutriorg,Baidyanath,Oziva,Himalaya,Endura,Endura,Happilo
+Potthy's,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Potthy's,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Potthy's,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Potthy's,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Potthy's,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Potthy's,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Potthy's,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Potthy's,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Potthy's,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Potthy's,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Potthy's,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Potthy's,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Potthy's,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Potthy's,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Potthy's,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Potthy's,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Potthy's,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Potthy's,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Potthy's,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Walmart,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Walmart,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Walmart,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Walmart,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Walmart,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Walmart,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Walmart,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Walmart,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Walmart,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Walmart,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Walmart,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Walmart,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Walmart,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Walmart,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Walmart,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Walmart,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Walmart,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Walmart,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Walmart,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Walmart,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Walmart,Health & Wellness,Health Supplements,40,Grocery,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,
+Walmart,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Walmart,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Walmart,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Walmart,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Wellness Forever,Makeup,Face,100,Pharmacy,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Wellness Forever,Makeup,Eyes,40,Pharmacy,Lakme,Plum,,,,,,
+Wellness Forever,Makeup,Lips,60,Pharmacy,Sebamed,Plum,Mamaearth,Nivea,,,,
+Wellness Forever,Makeup,Nail,20,Pharmacy,Plum,VLCC,,,,GUBB,,
+Wellness Forever,Skin,Moisturizers,100,Pharmacy,Mamaearth,Himalaya,Lakme,Nivea,Olay,Mcaffeine,Palmolive,Dr. Batra
+Wellness Forever,Skin,Cleansers,100,Pharmacy,Lakme,Everyuth,Mamaearth,VLCC,Ponds,Beardo,Neutrogena,Mcaffeine
+Wellness Forever,Skin,Masks,60,Pharmacy,Plum,Garnier,Mamaearth,VLCC,Himalaya,Bombay Shaving Company,Akmasq,Mcaffeine
+Wellness Forever,Skin,Toners,40,Pharmacy,Biotique,Dabur,Mamaearth,VLCC,,Khadi,Nutriorg,
+Wellness Forever,Skin,Body Care,100,Pharmacy,Dove,Nivea,Lakme,Ponds,Mamaearth,Sebamed,Cetaphil,Lotus
+Wellness Forever,Skin,Eye Care,40,Pharmacy,Mamaearth,Himalaya,VLCC,Mcaffeine,,The Moms Co.,Eyebliss,Avarta
+Wellness Forever,Skin,Lip Care,60,Pharmacy,Vaseline,Nivea,Dove,VLCC,Plum,Beardo,Chaptex,Sebamed
+Wellness Forever,Skin,Sun Care,100,Pharmacy,Nivea,Lotus,VLCC,VLCC,,Sunstil,Neutrogena,
+Wellness Forever,Hair,Hair Care,100,Pharmacy,Tresemme,Loreal Paris Paris,Mamaearth,Himalaya,Dove,Khadi,Indulekha,The Moms Co.
+Wellness Forever,Bath & Body,Bath & Shower,100,Pharmacy,Nivea,Palmolive,Fiama,Plum,Dettol,GUBB,Biotique,Khadi
+Wellness Forever,Bath & Body,Body Care,100,Pharmacy,Nivea,Dove,Fogg,Wild Stone,Garnier,Engage,,
+Wellness Forever,Bath & Body,Shaving & Hair Removal,100,Pharmacy,Veet,Fem,Ayur,Mamaearth,,The Man Company,Bombay Shaving Company,Nair
+Wellness Forever,Bath & Body,Men's Grooming,100,Pharmacy,Park Avenue,Nivea,Supermax,Old Spice,Cinthol,The Man Company,Bombay Shaving Company,
+Wellness Forever,Bath & Body,Hands & Feet,100,Pharmacy,Himalaya,Cetaphil,Neutrogena,Lifebuoy,Dettol,GUBB,,
+Wellness Forever,Bath & Body,Hygiene Essentials,100,Pharmacy,Savlon,Dettol,Himalaya,Livinguard,,Pigeon,Chicco,Saniscrub
+Wellness Forever,Bath & Body,Oral Care,100,Pharmacy,Colgate,Sensodyne,Himalaya,Dabur,Pepsodent,Vicco,Perfora,Lever Ayush
+Wellness Forever,Mom & Baby,Baby Care,100,Pharmacy,Johnson's,Himalaya,Dabur,Cerlac,Pampers,The Moms Co.,Hamdard,Mamypoko
+Wellness Forever,Mom & Baby,Maternity Care,100,Pharmacy,Palmers,Pigeon,,,,The Moms Co.,Mustela,
+Wellness Forever,Mom & Baby,Kids Care,100,Pharmacy,Lotus,Mamaearth,Horlicks,Nestle,Complan,Chicco,Sebamed,
+Wellness Forever,Mom & Baby,Nursing & Feeding,100,Pharmacy,Pigeon,Chicco,Morisons,,,,,
+Wellness Forever,Health & Wellness,Health Supplements,100,Pharmacy,GNC,Himalaya,Health Aid,Cureveda,Biohealth,Enorma,HK vitals,
+Wellness Forever,Health & Wellness,Beauty Supplements,100,Pharmacy,Oziva,GNC,Health Aid,Plix,,Fixuphealth,HK vitals,
+Wellness Forever,Health & Wellness,Sports Nutrition,100,Pharmacy,Oziva,GNC,Muscleblaze,Optimum Nutrition,Green Protein,Endura Mass,Ritebite,Phab
+Wellness Forever,Health & Wellness,Weight Management,100,Pharmacy,Endura Mass,Optimum Nutrition,Muscleblaze,GNC,Lipton,Kellogg's,Himalaya,Sugar Free
+Wellness Forever,Health & Wellness,Health Foods,80,Pharmacy,Dabur,True Elements,Delight Nuts,Cocosutra,Amul,Horlicks,Pedia Sure,Complan
+TATA 1MG,Makeup,Eyes,40,Pharmacy,Himalaya,Loreal Paris Paris,Maybelline,,,,,
+TATA 1MG,Makeup,Nail,20,Pharmacy,Vaadi Herbals,Vedic Ayurveda,VLCC,,,,,
+TATA 1MG,Skin,Moisturizers,100,Pharmacy,Mamaearth,Mcaffeine,Plum,Minimalist,Biotique,Cetaphil,Khadi naturals,St. Botanica
+TATA 1MG,Skin,Cleansers,100,Pharmacy,Mamaearth,Himalaya,Plum,Minimalist,Vedic Ayurveda,Cetaphil,Ginni,Bioderma
+TATA 1MG,Skin,Masks,60,Pharmacy,Mamaearth,Mcaffeine,Plum,VLCC,,Ustraa,,
+TATA 1MG,Skin,Toners,40,Pharmacy,Mamaearth,Himalaya,Plum,Minimalist,Dabur,Ayur,hamdard,Biotique
+TATA 1MG,Skin,Body Care,100,Pharmacy,Nivea,Mcaffeine,Vaseline,VLCC,Fiama,Cetaphil,Sirona,St. Botanica
+TATA 1MG,Skin,Eye Care,40,Pharmacy,Mamaearth,Himalaya,Mcaffeine,Oziva,Plum,Cetaphil,Mom & World,St. Botanica
+TATA 1MG,Skin,Lip Care,60,Pharmacy,Mamaearth,Nivea,Himalaya,Mcaffeine,Plum,Organic Harvest,Mom & World,Minimalist
+TATA 1MG,Skin,Sun Care,100,Pharmacy,Lakme,Mamaearth,VLCC,Lotus,Plum,Cetaphil,Bioderma,Mcaffeine
+TATA 1MG,Hair,Hair Care,100,Pharmacy,Mamaearth,Parachute,Wow,Loreal Paris,Plum,Mcaffeine,Sirona,St. Botanica
+TATA 1MG,Bath & Body,Bath & Shower,100,Pharmacy,Dettol,Nivea,Mamaearth,Himalaya,Plum,Mcaffeine,Sirona,St. Botanica
+TATA 1MG,Bath & Body,Body Care,100,Pharmacy,Cetaphil,Nivea,Parachute,Mamaearth,Vaseline,Axe,Sirona,St. Botanica
+TATA 1MG,Bath & Body,Shaving & Hair Removal,100,Pharmacy,Veet,VLCC,Old Spice,Dettol,Honeybee,Bombay Shaving Company,Bombae,Sanfe
+TATA 1MG,Bath & Body,Men's Grooming,100,Pharmacy,Gillette,VLCC,Old Spice,Dettol,,Bombay Shaving Company,Sirona,The Man Company
+TATA 1MG,Bath & Body,Hands & Feet,100,Pharmacy,Vaadi Herbals,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+TATA 1MG,Bath & Body,Hygiene Essentials,100,Pharmacy,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+TATA 1MG,Bath & Body,Oral Care,100,Pharmacy,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+TATA 1MG,Mom & Baby,Baby Care,100,Pharmacy,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+TATA 1MG,Mom & Baby,Maternity Care,100,Pharmacy,Bio-oil,Mederma,Protinex,,,The Moms Co.,Mcaffeine,Sirona
+TATA 1MG,Mom & Baby,Kids Care,100,Pharmacy,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,Cetaphil,Mom & World,Cetaphil
+TATA 1MG,Mom & Baby,Nursing & Feeding,100,Pharmacy,Pigeon,Philips,Sebamed,Chicco,,,,
+TATA 1MG,Health & Wellness,Health Supplements,100,Pharmacy,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,Wow
+TATA 1MG,Health & Wellness,Beauty Supplements,100,Pharmacy,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+TATA 1MG,Health & Wellness,Sports Nutrition,100,Pharmacy,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+TATA 1MG,Health & Wellness,Weight Management,100,Pharmacy,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+TATA 1MG,Health & Wellness,Health Foods,80,Pharmacy,Dabur,Patanjali,Happilo,Delight Nuts,Saffola Oats,True Elements,Organic India,
+Reliance Smart,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Reliance Smart,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Reliance Smart,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Reliance Smart,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Reliance Smart,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Reliance Smart,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Reliance Smart,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Reliance Smart,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Reliance Smart,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Reliance Smart,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Reliance Smart,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Reliance Smart,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Reliance Smart,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Reliance Smart,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Reliance Smart,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Reliance Smart,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Reliance Smart,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Reliance Smart,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Reliance Smart,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Reliance Smart,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Reliance Smart,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Reliance Smart,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Reliance Smart,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Reliance Smart,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Reliance Smart,Health & Wellness,Health Supplements,40,Grocery,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,
+Reliance Smart,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Reliance Smart,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Reliance Smart,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Reliance Smart,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Spar,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Spar,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Spar,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Spar,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Spar,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Spar,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Spar,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Spar,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Spar,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Spar,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Spar,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Spar,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Spar,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Spar,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Spar,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Spar,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Spar,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Spar,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Spar,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Spar,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Spar,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Spencers,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Spencers,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Spencers,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Spencers,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Spencers,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Spencers,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Spencers,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Spencers,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Spencers,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Spencers,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Spencers,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Spencers,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Spencers,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Spencers,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Spencers,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Spencers,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Spencers,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Spencers,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Spencers,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Spencers,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Spencers,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Spencers,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Spencers,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+Spencers,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+Spencers,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Spencers,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Spencers,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Vijayetha,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Vijayetha,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Vijayetha,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Vijayetha,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Vijayetha,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Vijayetha,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Vijayetha,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Vijayetha,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Vijayetha,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Vijayetha,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Vijayetha,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Vijayetha,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Vijayetha,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Vijayetha,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Vijayetha,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Vijayetha,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Vijayetha,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Vijayetha,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Vijayetha,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Vijayetha,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Vijayetha,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Vijayetha,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Vijayetha,Health & Wellness,Health Supplements,40,Grocery,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,
+Vijayetha,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+Vijayetha,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Vijayetha,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Shoppers Stop,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Shoppers Stop,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Shoppers Stop,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Shoppers Stop,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Shoppers Stop,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Shoppers Stop,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Shoppers Stop,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Shoppers Stop,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Vaibhav stores,Makeup,Face,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Vaibhav stores,Makeup,Eyes,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Lotus,Just Hurbs,Mamaearth,Plum
+Vaibhav stores,Makeup,Lips,100,Beauty,Lakme,Sugar,M.A.C,colorbar,Maybelline,Just Hurbs,Mamaearth,Plum
+Vaibhav stores,Makeup,Nail,100,Beauty,Lakme,Sugar,Mygalmm,colorbar,Blue Heaven,Feather,Soezi,Plum
+Vaibhav stores,Skin,Moisturizers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,Organic Harvest
+Vaibhav stores,Skin,Cleansers,100,Beauty,Lakme,Olay,Lotus,Loreal Paris Paris,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Skin,Masks,100,Beauty,Lakme,Sugar,Lotus,colorbar,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Skin,Toners,100,Beauty,Lakme,Sugar,Lotus,colorbar,Plum,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Skin,Body Care,100,Beauty,Lakme,Vaseline,Lotus,Nivea,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Skin,Eye Care,100,Beauty,Lakme,Sugar,Lotus,colorbar,Olay,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Skin,Lip Care,100,Beauty,Lakme,Sugar,Lotus,Blue Heaven,Vaseline,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Skin,Sun Care,100,Beauty,Lakme,Sugar,Lotus,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Hair,Hair Care,100,Beauty,Tresemme,Dove,colorbar,Loreal Paris Paris,Biolage,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Bath & Body,Bath & Shower,100,Beauty,Fiama,Dove,Nivea,Lux,Pears,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Bath & Body,Body Care,100,Beauty,Himalaya,Dove,Nivea,Vaseline,Ponds,Mcaffeine,Mamaearth,The Moms Co.
+Vaibhav stores,Bath & Body,Shaving & Hair Removal,100,Beauty,Veet,The Body Care,Plush,Bombae,Biosoft,Honeybee,Sirona,Rica
+Vaibhav stores,Bath & Body,Men's Grooming,100,Beauty,Old Spice,Gillette,Nivea,Dove,Himalaya,Bombay Shaving Company,The Body Shop,
+Vaibhav stores,Bath & Body,Hands & Feet,100,Beauty,Fiama,Palmolive,Himalaya,Nykaa,VLCC,Mcaffeine,The Body Shop,Honeybee
+Vaibhav stores,Bath & Body,Hygiene Essentials,100,Beauty,Savlon,Lifebuoy,Dettol,Livinguard,Peebuddy,Sirona,Mamaearth,The Body Shop
+Vaibhav stores,Bath & Body,Oral Care,100,Beauty,Colgate,Oral-B,Listerine,Dabur,Himalaya,Closeup,Mamaearth,Perfora
+Vaibhav stores,Mom & Baby,Baby Care,100,Beauty,Johnson's,Sebamed,Mamypoko,Dove,Himalaya,Mom & World,Mamaearth,The Moms Co.
+Vaibhav stores,Mom & Baby,Maternity Care,20,Beauty,Bio-oil,Mederma,Amrutam,Mom & World,Himalaya,Sirona,Mamaearth,The Moms Co.
+Vaibhav stores,Mom & Baby,Kids Care,20,Beauty,Colgate,Oral-B,Biotique,Wow,Himalaya,Mom & World,Mamaearth,Perfora
+Vaibhav stores,Mom & Baby,Nursing & Feeding,20,Beauty,Pigeon,Chicco,Mothercare,Bodyguard,Himalaya,Sirona,Morisons,Sanfe
+Sodhi Super Strores,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Sodhi Super Strores,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Sodhi Super Strores,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Sodhi Super Strores,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Sodhi Super Strores,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Sodhi Super Strores,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Sodhi Super Strores,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Sodhi Super Strores,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Sodhi Super Strores,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Sodhi Super Strores,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Sodhi Super Strores,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Sodhi Super Strores,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Sodhi Super Strores,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Sodhi Super Strores,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Sodhi Super Strores,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+Sodhi Super Strores,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
+Ushodiya,Makeup,Face,100,Grocery,Lakme,Plum,Mamaearth,Ponds,Glow & Handsome,,,
+Ushodiya,Makeup,Eyes,40,Grocery,Lakme,Plum,,,,,,
+Ushodiya,Makeup,Lips,60,Grocery,Sebamed,Plum,Mamaearth,Nivea,,,,
+Ushodiya,Makeup,Nail,20,Grocery,Plum,VLCC,,,,GUBB,,
+Ushodiya,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+Ushodiya,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+Ushodiya,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+Ushodiya,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+Ushodiya,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+Ushodiya,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+Ushodiya,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+Ushodiya,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+Ushodiya,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+Ushodiya,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+Ushodiya,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+Ushodiya,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+Ushodiya,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+Ushodiya,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+Ushodiya,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+Ushodiya,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+Ushodiya,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+Ushodiya,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+Ushodiya,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+Ushodiya,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+WH Smith,Skin,Moisturizers,100,Grocery,Lakme,Ponds,Dove,Nivea,Vaseline,Himalaya,Ayur,Palmolive
+WH Smith,Skin,Cleansers,100,Grocery,Lakme,Garnier,Nivea,Himalaya,Lotus,Mamaearth,Biotique,Palmolive
+WH Smith,Skin,Masks,100,Grocery,VLCC,Ponds,Garnier,Himalaya,Lakme,Mamaearth,VLCC,WOW
+WH Smith,Skin,Toners,60,Grocery,Dabur,Biotique,Plum,Himalaya,Lakme,Mamaearth,Minimalist,WOW
+WH Smith,Skin,Body Care,100,Grocery,Dove,Ponds,Nivea,Himalaya,Vaseline,Mamaearth,Joy,Nykaa
+WH Smith,Skin,Eye Care,40,Grocery,Maybelline,Lakme,Himalaya,,,Faces Canada,Sugar,
+WH Smith,Skin,Lip Care,60,Grocery,Nivea,Himalaya,Maybelline,Lotus,Vaseline,Mamaearth,Neutrogena,Sebamed
+WH Smith,Skin,Sun Care,100,Grocery,Lakme,Joy,Biotique,Lotus,Dove,Joy,Neutrogena,Mamaearth
+WH Smith,Hair,Hair Care,100,Grocery,Tresemme,Dove,Sunsilk,Himalaya,Joy,Biolage,Vedix,Mamaearth
+WH Smith,Bath & Body,Bath & Shower,100,Grocery,Nivea,Dove,Fiama,Pears,Himalaya,Biotique,Mcaffeine,Mamaearth
+WH Smith,Bath & Body,Body Care,100,Grocery,Dove,Nivea,Park Avenue,Axe,Cinthol,Nykaa,Beardo,
+WH Smith,Bath & Body,Shaving & Hair Removal,100,Grocery,Veet,Gillette,Fem,Ayur,,Mamaearth,,
+WH Smith,Bath & Body,Men's Grooming,100,Grocery,Old Spice,Gillette,Cinthol,Wild Stone,Supermax,Venus,,
+WH Smith,Bath & Body,Hands & Feet,100,Grocery,Plum,Himalaya,Dettol,Lifebuoy,Sanfe,,Mcaffeine,Cetaphil
+WH Smith,Bath & Body,Hygiene Essentials,60,Grocery,Vwash,Pee safe,Himalaya,Dettol,Lifebuoy,Sanfe,Mcaffeine,Cetaphil
+WH Smith,Bath & Body,Oral Care,100,Grocery,Colgate,Sensodyne,Listerine,Dabur,Oral-B,Mamaearth,Vantej,Vicco
+WH Smith,Mom & Baby,Baby Care,100,Grocery,Mamypoko,Johnson's,Pampers,Mamaearth,Himalaya,Chicco,Huggies,Sebamed
+WH Smith,Mom & Baby,Maternity Care,20,Grocery,Bio-oil,Mederma,Protinex,,,,,
+WH Smith,Mom & Baby,Kids Care,20,Grocery,Wow,Mamaearth,Pedia Sure,Lotus,Horlicks,,,
+WH Smith,Mom & Baby,Nursing & Feeding,20,Grocery,Pigeon,Chicco,,,,,,
+WH Smith,Health & Wellness,Health Supplements,40,Grocery,Muscleblaze,HealthKart,Truebasics,Inlife,GNC,TATA 1mg,Oziva,
+WH Smith,Health & Wellness,Beauty Supplements,20,Grocery,HealthVit,Oziva,GNC,HealthHey,Himalaya,Inlife,Endura,Nirvasa
+WH Smith,Health & Wellness,Sports Nutrition,20,Grocery,TATA 1mg,HealthKart,Oziva,GNC,Glucozone,Healthvit,Healthhey,
+WH Smith,Health & Wellness,Weight Management,1,Grocery,Muscleblaze,Optimum Nutrition,Yoga bar,Ritebite,Revital,Calibar,The Whole Truth,
+WH Smith,Health & Wellness,Health Foods,20,Grocery,TATA 1mg,Sugar Free,Himalaya,Kapiva,Organic India,Healthkart,Inlife,
